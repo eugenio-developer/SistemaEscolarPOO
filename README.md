@@ -4,9 +4,9 @@ Desenvolvido em Java sob a orientação do professor Paulo Milhorato, este proje
 A aplicação implementa um CRUD (Create, Read, Update, Delete) robusto, permitindo o cadastro e a manutenção de dados de professores e alunos. 
 Além disso, oferece funcionalidades avançadas de consulta, como a visualização de salários, notas e outras informações relevantes. 
 
-Para construção do sistema utilizamos as camadas:
-Repository, Service, Controller e Model.
-Obs: Utilizamos O JOptionPane como view
+Para construção do sistema utilizamos as camadas:  
+Repository, Service, Controller e Model.  
+Obs: Utilizamos O JOptionPane como view  
 
 ![image](https://github.com/user-attachments/assets/ee7f1bb5-f609-4897-a50a-756fa4e9791b)
 
